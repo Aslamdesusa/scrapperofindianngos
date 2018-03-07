@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "emailrepair-195220",
+  "private_key_id": "b42881763aeb30396d23d3e781806221c29a593d",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCnck4pJ6XzgKGr\neDbmrIarHeoqmS7u43KuXu/teDp+rp1OqwMKhySuIvX6hwerzjOm4PcDDRPElmO2\njlnLTa7TBmj0TQfeLrILD7QXs6qtBvCtyzyl/kgrVoc69Hxr5BAPXiYroIRTcp/L\naEbxU5XUTl/GevytU3zj+Kzx0NBLbJeYyVcUlyThdvTGfZOM/AW/5kXbqfj6hi+S\nom5d031XkG5YFmQ+dnPG09JGZGyY+hxIUBJIevT3+gCx2ChI1nOB1W6Z+1CHKQIG\n0iPkBbKmMOQp31g0DViJGNhZhZrNqE3l8W5M0+3Reup64Ic+ZYym8j5+eEccyJ5j\n+iJOThq9AgMBAAECggEAJvcD9jK6PNxBgsfSKsKaAebPr4L+92spLCd+eImiPwl+\nJKjJ5+DD6dvL1rUmVVYCEgLGqEiaQYRnhrtAbP1SQdv7f2IPgyXlm4pXc66E+Iel\naSPipJP0ElWr2U28SFUFYbYcdsl/EXYadjh5Tb4QHxvv0J2c/+5uIRSklg7r8aje\nht+pvN1SUueUBUZF0s8CvXikqcg7xzQmQGgWWgPVXcKL5a1ZDdv3pQ7AHVsBoIbC\nhZaKuHXzD2PQgOBwbp9xZZQ1CtmlY9+TONtsEFCtLryvdBDv/LVP+2+/eWWSnkJw\nbXtr3XXoZjrXrSVB5HJYzo2472ZySlwYzg6SxbpUkQKBgQDU0EnFBW/9XG78KmJH\n7pyIMjrjB9x1DEq2hmhNRhfUUOaFXtUnWpoPTKOpldbe7NCtOojW80lyJa4VUbTc\nVU2VMSXDNGiqoXhOQFfd0XGhMFofsQwQB4Vq5WGtOuIyXwPfM+cW2iafjYoUaJxS\nB6mPI9M9A/0vWAXuZQxGQDMElQKBgQDJbS+U8AWNqSPjWA7sFhRC/HYUKveyymt9\nq+SbYSL3IZt0UlgdHlPNUODzIY5381AIfesVCwlzOKUbZeWEjcUDdoVXOqfJUOnd\n04KCPTyg01DcE+Y5cyvV0uxXNOEhi9ujt2f6dCH/j3M1d+I1Z0bCN1SQEWIyDQTo\nJL4OEsVLiQKBgBcA3Lh7Ofu8/hIr0qvL0we1xj+8HcxZI8pPBP81UGYWyJQqCAhU\n9sookphGJg+6sWPIK/pwGcRI5mRPjKk0X0p9IYPUKmwnQAXVVqoXdZziyRsb3B3v\ncjB30vMSplijhJuf1J7Xvc0JU5+ZHyyOv3lFehPiVn/DmACI06bUUa9xAoGBAI2N\nVartInnzK21RLOtseMC6eqChsYDMD845RmaLVO8nhv+v/ow4C9x1wiAarOxO6SeO\nle4r23BFloIykaEdoB5W5E3wwokPe8qQIV81ea3r0x9WPKyS63NQzxZZ6vyQNMJQ\n2ZmAk4PtY6FnpmixM2C5UYwNK1zRGWmqqIVrW4tBAoGAIYxySKCL+lqIFPMPUSZE\n5e77IfvYUgW2a0s/gcXt9VaCly+w+f3IdBjvBS/V12kG3CRUBJYzabMfzABwDcSz\nk8ypAnsrvIt0UnsXJlOHCKjs1O/X9TfwY6z8UsQ/UcFNiiOJm3a+IYYWBzWROFY0\nWxElUClsMpcf0sxJZr/n+oU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "cupanscraper@emailrepair-195220.iam.gserviceaccount.com",
+  "client_id": "100046282855845531956",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/cupanscraper%40emailrepair-195220.iam.gserviceaccount.com"
+}
